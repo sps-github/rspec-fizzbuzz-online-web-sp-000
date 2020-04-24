@@ -1,9 +1,9 @@
-def fizzbuzz(3)
-  number = 3
+def fizzbuzz(fizz_3)
+  fizz_3 = 3
   return "Fizz"
 end
 
-def fizzbuzz(5)
-  number = 5
+def fizzbuzz(fizz_5)
+  fizz_5 = 5
   return "Buzz"
 end
