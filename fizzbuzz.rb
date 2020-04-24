@@ -1,13 +1,13 @@
 def fizzbuzz(n)
   if n % 3 == 0
     puts "Fizz"
-    "3"
+    "Fizz"
   elsif (n % 5) == 0
     puts "Buzz"
-    "5"
+    "Buzz"
   elsif (n % 3) && (n % 5) == 0
     puts "FizzBuzz"
-    "15"
+    "FizzBuzz"
   else
     puts nil
   end
