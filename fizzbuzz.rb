@@ -1,14 +1,6 @@
-def fizzbuzz(int)
-  if int % 3 == 0
-    "Fizz"
-  end
-
-def fizzbuzz(fizz_3)
-  fizz_3 == 3
-  return "Fizz"
+def fizzbuzz(number)
+  number = 3
+  puts "Fizz"
 end
 
-def fizzbuzz(fizz_5)
-  fizz_5 == 5
-  return "Buzz"
-end
+
